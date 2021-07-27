@@ -1,5 +1,4 @@
-# Matplotlib Homework
-A repository containing Matplotlib Homework  
+# Matplotlib - Mice Cancer Treatments
 This challenge involves analysing a dataset on an animal study  
 An animal study was conducted to measure the effects of some anti-cancer drugs on tumor sizes in mice  
  
